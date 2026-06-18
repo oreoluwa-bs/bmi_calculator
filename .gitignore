@@ -11,3 +11,8 @@ build/
 *.iml
 .idea/
 res/
+
+# env files (restored by security fix)
+.env
+.env.*
+!.env.example
